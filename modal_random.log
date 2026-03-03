@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/bin/modal", line 4, in <module>
+    from modal.__main__ import main
+ModuleNotFoundError: No module named 'modal'

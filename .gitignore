@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.gctx
+*.gctx.gz
+data/raw/
+modal_random_run.log
+modal_pid.txt
+run_modal.sh
+node_modules/

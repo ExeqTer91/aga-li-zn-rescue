@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+statsmodels
+matplotlib
+seaborn
+scikit-learn
+gseapy
+GEOparse
+networkx
+requests
